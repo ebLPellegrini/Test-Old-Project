@@ -1,0 +1,14 @@
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/bin/Debug/net8.0/Debug101
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/bin/Debug/net8.0/Debug101.deps.json
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/bin/Debug/net8.0/Debug101.runtimeconfig.json
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/bin/Debug/net8.0/Debug101.dll
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/bin/Debug/net8.0/Debug101.pdb
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.AssemblyInfoInputs.cache
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.AssemblyInfo.cs
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.csproj.CoreCompileInputs.cache
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.dll
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/refint/Debug101.dll
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.pdb
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/Debug101.genruntimeconfig.cache
+/Users/eblpellegrini/Documents/C#MicrosoftLearn/CsharpProjects/Debug101/obj/Debug/net8.0/ref/Debug101.dll
